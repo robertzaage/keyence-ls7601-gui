@@ -581,4 +581,4 @@ Each settings group is built with three helpers:
 
 ---
 
-*This documentation covers software version consistent with the ls7601_controller.py file in this repository. For hardware-specific details, consult the official Keyence LS-7600 Series Instruction Manual, Chapter 8 (RS-232C).*
+*For hardware-specific details, consult the official Keyence LS-7600 Series Instruction Manual, Chapter 8 (RS-232C).*
